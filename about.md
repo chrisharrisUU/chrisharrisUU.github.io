@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am interested in human contingency learning from a social cognition perspective and especially in when and why humans err in their judgements thereof. In a collaboration between the CRISP (Cognitive Research in Social Psychology) team under Prof. Fiedler at the University of Heidelberg and the Goallab under Prof. Henk Aarts and Dr. Ruud Custers at Utrecht University, I investigate how erroneous action-outcome beliefs arise and are updated during information sampling as people test the validity of beliefs.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[c.a.harris@uu.nl](mailto:c.a.harris@uu.nl)
