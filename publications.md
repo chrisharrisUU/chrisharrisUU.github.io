@@ -3,6 +3,13 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+
+## Publications
+
+**Harris, C.**, Marien, H., Fiedler, K., Custers, R. (2019). *Biased preferences through exploitation: The effects of skewed environments on information sampling*. Manuscript submitted for publication.
+
+Fiedler, K., **Harris, C.**, & Schott, M. (2018). Unwarranted Inferences from Statistical Mediation Tests - An Analysis of Articles Published in 2015. *Journal of Experimental Social Psychology, 75*, 95-102.
+
   
 ## Talks
 
