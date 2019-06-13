@@ -19,9 +19,9 @@ avatar: https://raw.githubusercontent.com/chrisharrisUU/chrisharrisuu.github.io/
 footer-links:
   email: c.a.harris@uu.nl
   github: chrisharrisUU
-  # osf: osf.io/pv8aj
-  linkedin: https://www.linkedin.com/in/chris-harris-844b8a103/
-  # researchgate: https://www.researchgate.net/profile/Chris_Harris31
+  osf: pv8aj
+  linkedin: chris-harris-844b8a103/
+  researchgate: Chris_Harris31
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 
