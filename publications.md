@@ -26,3 +26,9 @@ Harris, C. (2017, June). *When Human Behavior is Misinformed by Beliefs: The For
 Harris, C. (2017, February). *When Human Behavior is Misinformed by Beliefs: The Formation of Erroneous Action-Outcome Representations*. Invited talk at Utrecht University , The Netherlands.  
 
 Harris, C. (2016, June). *Strategy Selection in a Dynamic Bandit Task*. Invited talk at the University of Heidelberg, Germany.  
+
+## Classes taught
+
+Fall 2017:	*Consumer Psychology*  
+Spring 2017:	*Kritische Lektüre von Fachliteratur* [Critical reading of scientific literature]  
+Fall 2016:	*(Ir-) Rational? Heuristiken in der Entscheidungsforschung* [(Ir-)rational? Heuristics in decision making]  
