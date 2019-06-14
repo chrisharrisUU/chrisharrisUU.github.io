@@ -8,5 +8,5 @@ I am interested in human contingency learning from a social cognition perspectiv
 
 ### Contact me
 
-[University profile](https://www.uu.nl/staff/CAHarris)
+[University profile](https://www.uu.nl/staff/CAHarris)  
 [c.a.harris@uu.nl](mailto:c.a.harris@uu.nl)
