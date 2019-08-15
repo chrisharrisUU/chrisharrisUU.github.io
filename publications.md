@@ -15,6 +15,10 @@ Fiedler, K., **Harris, C.**, & Schott, M. (2018). Unwarranted Inferences from St
   
 ## Talks
 
+**Harris, C.** (2019).*Biased preferences through exploitation*. ESCON, Bordeaux, France.  
+
+**Harris, C.** (2019, August). *Biased preferences through exploitation: The effects of skewed environments on information sampling*. Talk given at SPUDM, Amsterdam, The Netherlands.  
+
 **Harris, C.** (2018, December). *Experience sampling in skewed environments and the updating of erroneous action-outcome representations*. Talk given at ASPO, Nijmegen, The Netherlands.  
 
 **Harris, C.** (2018, September). *The formation of erroneous action-outcome beliefs. Pseudocontingencies in Information Sampling*. Talk given at ESCON, Cologne, Germany.  
@@ -26,6 +30,12 @@ Fiedler, K., **Harris, C.**, & Schott, M. (2018). Unwarranted Inferences from St
 **Harris, C.** (2017, February). *When Human Behavior is Misinformed by Beliefs: The Formation of Erroneous Action-Outcome Representations*. Invited talk at Utrecht University , The Netherlands.  
 
 **Harris, C.** (2016, June). *Strategy Selection in a Dynamic Bandit Task*. Invited talk at the University of Heidelberg, Germany.  
+
+## Popular talks
+
+**Harris, C.** (2019). *Dating from a social cognition perspective*. Breaking Science: Pitch competition Utrecht, Utrecht, The Netherlands.  
+
+**Harris, C.** (03.05.2017). *Die Qual der Wahl - Warum uns Entscheidungen manchmal so schwer fallen*. Science Pub - Die Wissenschaftskneipe Wiesbaden, Wiesbaden, Germany.  
 
 ## Classes taught
 
