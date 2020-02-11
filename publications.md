@@ -6,9 +6,11 @@ permalink: /publications/
 
 ### Under review/submitted
 
-**Harris, C.**, Marien, H., Fiedler, K., Custers, R. (2019). *Biased preferences through exploitation: The effects of skewed environments on information sampling*. Manuscript submitted for publication.
 
-### Published
+
+### Peer reviewed
+
+**Harris, C.**, Marien, H., Fiedler, K., Custers, R. (In press). *Biased preferences through exploitation: How initial biases are consolidated in reward-rich environments*. Journal of Experimental Psychology: General.
 
 Fiedler, K., **Harris, C.**, & Schott, M. (2018). Unwarranted Inferences from Statistical Mediation Tests - An Analysis of Articles Published in 2015. *Journal of Experimental Social Psychology, 75*, 95-102.
 
@@ -40,6 +42,11 @@ Fiedler, K., **Harris, C.**, & Schott, M. (2018). Unwarranted Inferences from St
 ## Classes taught
 
 |:-------------:|:----:|
-|Fall 2017:     |*Consumer Psychology*|
-|Spring 2017:   |*Kritische Lektüre von Fachliteratur* [Critical reading of scientific literature]|
-|Fall 2016:   	|*(Ir-) Rational? Heuristiken in der Entscheidungsforschung* [(Ir-)rational? Heuristics in decision making]|
+|2019:     |Involvement in the improvement of statistical testing and reporting as part of the Research Practice 2.0 project awarded by FSW Onderwijs Stimulerings Fond|
+|          |*Macht en Leiderschap* [Power and leadership]|
+|          |*Neuroscience of Social Behavior and Emotional Disorders*|
+|          |*Social Cognition*|
+|          |*Organization Development*|
+|2017:     |*Consumer Psychology*|
+|          |*Kritische Lektüre von Fachliteratur* [Critical reading of scientific literature]|
+|2016:     |*(Ir-) Rational? Heuristiken in der Entscheidungsforschung* [(Ir-)rational? Heuristics in decision making]|
