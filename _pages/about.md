@@ -20,6 +20,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+
+
 I am an assistant professor at Utrecht University. My research revolves around decisions by experience, that is, how learning depends on previously encountered information. I am interested in decision-making and sampling in a broader social cognition framework.
 
 My teaching revolves around social psychology and statistics classes. I teach mainly in the Bachelor program, but also in the (research) master program, at the University College, and supervise theses.
