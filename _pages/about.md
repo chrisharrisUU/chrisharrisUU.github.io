@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Utrecht University</a>.
+subtitle: <a href='https://www.uu.nl/en'>Utrecht University</a>.
 
 profile:
   align: left
@@ -22,4 +22,4 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I am an assistant professor at Utrecht University. My research revolves around decisions by experience, that is, how learning depends on previously encountered information. I am interested in decision-making and sampling in a broader social cognition framework.
 
-My teaching revolves around social psychology and statistics classes in our Bachelor, Master, and Research Master programs as well as at our University College. I supervise bachelor, master, and research master theses as well as a PhD candidate.
+My teaching revolves around social psychology and statistics classes in our Bachelor, Master, and Research Master programs as well as at our University College. I supervise bachelor, master, and research master theses as well as one PhD candidate.
